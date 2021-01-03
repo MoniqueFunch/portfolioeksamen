@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="134mm" height="34mm" viewBox="0 0 379.84 96.38">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #caf4fc;
+      }
+
+      .cls-2 {
+        fill: #de9f8a;
+      }
+
+      .cls-3 {
+        fill: #c6776a;
+      }
+
+      .cls-4 {
+        fill: #cc8071;
+      }
+
+      .cls-5 {
+        fill: #d58d7a;
+      }
+    </style>
+  </defs>
+  <g id="UI_elementer" data-name="UI elementer">
+    <g>
+      <rect class="cls-1" x="1.35" y="1.04" width="377.15" height="94.29" rx="47.14"/>
+      <g>
+        <circle class="cls-2" cx="311.67" cy="48.36" r="40.39"/>
+        <circle class="cls-3" cx="311.67" cy="48.36" r="13.46"/>
+        <circle class="cls-4" cx="311.67" cy="45.69" r="9.98"/>
+        <circle class="cls-5" cx="311.67" cy="45.02" r="6.17"/>
+      </g>
+    </g>
+  </g>
+</svg>

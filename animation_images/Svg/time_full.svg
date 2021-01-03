@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27mm" height="115mm" viewBox="0 0 76.54 325.98">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #de9f8a;
+      }
+
+      .cls-2 {
+        fill: #cc8071;
+      }
+
+      .cls-3 {
+        fill: #d58d7a;
+      }
+    </style>
+  </defs>
+  <g id="UI_elementer" data-name="UI elementer">
+    <g>
+      <rect class="cls-1" x="1.32" y="5.9" width="73.9" height="270.65"/>
+      <ellipse class="cls-1" cx="38.27" cy="276.54" rx="36.95" ry="37.85"/>
+      <path class="cls-2" d="M59.11,306.08c0,3.63-10.84,8.31-20.76,8.31s-20.51-4.68-20.51-8.31,10.59-10.85,20.51-10.85S59.11,302.45,59.11,306.08Z"/>
+      <circle class="cls-3" cx="38.35" cy="312.29" r="7.8"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="76mm" height="59mm" viewBox="0 0 215.43 167.24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #de9f8a;
+      }
+
+      .cls-2 {
+        fill: #c6776a;
+      }
+
+      .cls-3 {
+        fill: #cc8071;
+      }
+
+      .cls-4 {
+        fill: #d58d7a;
+      }
+
+      .cls-5 {
+        fill: #c6636a;
+      }
+    </style>
+  </defs>
+  <g id="Spillelementer">
+    <g>
+      <polygon class="cls-1" points="197.47 94.84 106 94.84 106 27.53 196.19 27.53 197.47 94.84"/>
+      <polygon class="cls-1" points="107.72 94.84 17.97 94.84 19.25 27.53 109 27.53 107.72 94.84"/>
+      <circle class="cls-1" cx="62.84" cy="94.84" r="44.88"/>
+      <circle class="cls-2" cx="62.84" cy="94.84" r="14.95"/>
+      <circle class="cls-3" cx="62.84" cy="91.88" r="11.09"/>
+      <circle class="cls-4" cx="62.84" cy="91.13" r="6.86"/>
+      <circle class="cls-1" cx="152.59" cy="94.84" r="44.88"/>
+      <circle class="cls-2" cx="152.59" cy="94.84" r="14.95"/>
+      <circle class="cls-3" cx="152.59" cy="91.88" r="11.09"/>
+      <circle class="cls-4" cx="152.59" cy="91.13" r="6.86"/>
+      <circle class="cls-5" cx="62.84" cy="90.86" r="3.43"/>
+      <circle class="cls-5" cx="152.59" cy="90.86" r="3.43"/>
+      <path class="cls-4" d="M107.72,98s-5.52-29,0-44.9Z"/>
+    </g>
+  </g>
+</svg>

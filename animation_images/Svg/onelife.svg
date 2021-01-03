@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.5mm" height="28.5mm" viewBox="0 0 80.78 80.78">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #de9f8a;
+      }
+
+      .cls-2 {
+        fill: #c6776a;
+      }
+
+      .cls-3 {
+        fill: #cc8071;
+      }
+
+      .cls-4 {
+        fill: #d58d7a;
+      }
+    </style>
+  </defs>
+  <g id="UI_elementer" data-name="UI elementer">
+    <g>
+      <circle class="cls-1" cx="40.39" cy="40.39" r="40.39"/>
+      <circle class="cls-2" cx="40.39" cy="40.39" r="13.46"/>
+      <circle class="cls-3" cx="40.39" cy="37.72" r="9.98"/>
+      <circle class="cls-4" cx="40.39" cy="37.05" r="6.17"/>
+    </g>
+  </g>
+</svg>

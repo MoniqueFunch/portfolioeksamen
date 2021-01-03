@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31mm" height="31mm" viewBox="0 0 87.87 87.87">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #95272d;
+      }
+    </style>
+  </defs>
+  <g id="UI_elementer" data-name="UI elementer">
+    <g>
+      <polygon points="83.68 7.22 6.15 7.22 6.15 50.52 78.64 50.52 54.48 28.87 83.68 7.22"/>
+      <polygon class="cls-1" points="77.73 9.38 7.95 9.38 7.95 48.35 73.2 48.35 51.45 28.87 77.73 9.38"/>
+      <rect x="5.37" y="7.22" width="2.58" height="81.03"/>
+    </g>
+  </g>
+</svg>
