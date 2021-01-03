@@ -1,0 +1,14 @@
+#overskrift {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.4rem;
+    padding-left: 0.5rem;
+}
+
+#forsidebillede {
+    padding-left: 120px;
+    padding-top: 20px;
+}
+
+.forsidebillede {
+    width: 330px;
+}
