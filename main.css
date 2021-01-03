@@ -14,7 +14,25 @@ body {
 
 main {
     max-width: 1080px;
-    margin: 4rem auto;
+    margin: 1.5rem auto;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+}
+
+h3 {
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    font-family: 'Jost', sans-serif;
+}
+
+section {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding-top: 20px;
 }
 
 nav {
@@ -27,7 +45,7 @@ nav {
     flex-direction: column;
     justify-content: space-around;
     text-align: left;
-    height: 550px;
+    /*    height: 550px;*/
 }
 
 nav a {
@@ -38,4 +56,14 @@ nav a {
 header {
     position: relative;
     height: 0;
+    padding-bottom: 4vh;
+    padding-top: 3vh;
 }
+
+@media only screen and (min-width: 600px) {
+    nav {
+        flex-direction: row;
+        font-size: 1rem;
+        position: absolute;
+        width: 100%;
+    }
