@@ -30,18 +30,36 @@ img {
 }
 
 .tekst {
-    padding: 15px;
+    padding: 22px;
+}
+
+#second_section img {
+    height: 250px;
 }
 
 @media only screen and (min-width: 600px) {
     #first_section .section_wrapper {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 20px;
+        background-color: rgba(250, 215, 239, 0.2);
+    }
+
+    #second_section .section_wrapper {
         display: grid;
         grid-template-columns: 1fr 2fr;
         grid-gap: 20px;
         background-color: rgba(250, 215, 239, 0.2);
     }
 
-    #second_section .section_wrapper {
+    #third_section .section_wrapper {
+        display: grid;
+        grid-template-columns: 1fr 4fr;
+        grid-gap: 20px;
+        background-color: rgba(250, 215, 239, 0.2);
+    }
+
+    #fourth_section .section_wrapper {
         display: grid;
         grid-template-columns: 3fr 1fr;
         grid-gap: 20px;
