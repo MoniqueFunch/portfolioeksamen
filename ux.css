@@ -46,21 +46,21 @@ img {
         display: grid;
         grid-template-columns: 1fr 5fr;
         grid-gap: 20px;
-        background-color: rgba(220, 215, 250, 0.2);
+        background-color: rgba(186, 175, 253, 0.15);
     }
 
     #second_section .section_wrapper {
         display: grid;
         grid-template-columns: 1fr 2fr;
         grid-gap: 20px;
-        background-color: rgba(220, 215, 250, 0.2);
+        background-color: rgba(186, 175, 253, 0.15);
     }
 
     #third_section .section_wrapper {
         display: grid;
         grid-template-columns: 1fr 4fr;
         grid-gap: 20px;
-        background-color: rgba(220, 215, 250, 0.2);
+        background-color: rgba(186, 175, 253, 0.15);
     }
 
 }

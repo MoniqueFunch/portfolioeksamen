@@ -45,26 +45,26 @@ img {
         display: grid;
         grid-template-columns: 1fr 1fr;
         grid-gap: 20px;
-        background-color: rgba(250, 215, 239, 0.2);
+        background-color: rgba(255, 201, 232, 0.2);
     }
 
     #second_section .section_wrapper {
         display: grid;
         grid-template-columns: 1fr 1fr;
         grid-gap: 20px;
-        background-color: rgba(250, 215, 239, 0.2);
+        background-color: rgba(255, 201, 232, 0.2);
     }
 
     #third_section .section_wrapper {
         display: grid;
         grid-template-columns: 1fr 4fr;
         grid-gap: 20px;
-        background-color: rgba(250, 215, 239, 0.2);
+        background-color: rgba(255, 201, 232, 0.2);
     }
 
     #fourth_section .section_wrapper {
         display: grid;
         grid-template-columns: 3fr 1fr;
         grid-gap: 20px;
-        background-color: rgba(250, 215, 239, 0.2);
+        background-color: rgba(255, 201, 232, 0.2);
     }
