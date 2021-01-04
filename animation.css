@@ -1,13 +1,12 @@
 img {
     width: 100%;
-
     vertical-align: middle;
 }
 
 .image-container {
     display: flex;
     gap: 20px;
-    padding: 20px;
+    padding: 18px;
 }
 
 .image-container figure {
@@ -26,11 +25,11 @@ img {
 }
 
 .image-container {
-    margin-right: 20px;
+    margin-right: 18px;
 }
 
 .tekst {
-    padding: 22px;
+    padding: 18px;
 }
 
 #second_section img {
