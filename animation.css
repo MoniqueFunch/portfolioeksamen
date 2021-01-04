@@ -33,7 +33,11 @@ img {
 }
 
 #second_section img {
-    height: 250px;
+    height: 180px;
+}
+
+#first_section img {
+    height: 220px;
 }
 
 @media only screen and (min-width: 600px) {
@@ -46,7 +50,7 @@ img {
 
     #second_section .section_wrapper {
         display: grid;
-        grid-template-columns: 1fr 2fr;
+        grid-template-columns: 1fr 1fr;
         grid-gap: 20px;
         background-color: rgba(250, 215, 239, 0.2);
     }
