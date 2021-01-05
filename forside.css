@@ -1,7 +1,16 @@
-/*
-.overskrift {
-    font-family: 'Playfair Display', serif;
-    font-size: 1.4rem;
-    padding-left: 0.5rem;
+#first_section {
+    background-image: url(splashbillede.jpg);
+    background-size: cover;
+    width: 90%;
+    height: 85vh;
+    max-width: none;
+    margin-top: 0;
+    background-position: 15% 10%;
 }
-*/
+
+header {
+    position: relative;
+    height: 0;
+    padding-bottom: 6vh;
+    padding-top: 3vh;
+}
