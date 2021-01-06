@@ -1,0 +1,16 @@
+.tekst {
+    padding: 20px;
+}
+
+@media only screen and (min-width: 600px) {
+    #first_section .section_wrapper {
+        display: grid;
+        grid-template-columns: 2.5fr 1.5fr;
+        grid-gap: 20px;
+        background-color: rgba(190, 73, 77, 0.17);
+    }
+
+    .image-container {
+        margin-right: 18px;
+    }
+}
