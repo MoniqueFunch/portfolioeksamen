@@ -12,17 +12,25 @@
     <title>CONTENT</title>
     <link rel="stylesheet" href="main.css">
     <link rel="stylesheet" href="indhold.css">
+    <script src="script.js"></script>
 </head>
 
 <body>
     <header id="my_header">
         <nav>
-            <a href="index.html">HOME</a>
-            <a href="web.html">WEB</a>
-            <a href="ux.html">UX</a>
-            <a href="animation.html">ANIMATION</a>
-            <a href="indhold.html">CONTENT</a>
-            <a href="cv.html">ABOUT</a>
+            <div id="menuknap" onclick="burgerMenu(this)">
+                <div class="bar1"></div>
+                <div class="bar2"></div>
+                <div class="bar3"></div>
+            </div>
+            <ul id="menu" class="hidden">
+                <li><a href="index.html">HOME</a></li>
+                <li><a href="web.html">WEB</a></li>
+                <li><a href="ux.html">UX</a></li>
+                <li><a href="animation.html">ANIMATION</a></li>
+                <li><a href="indhold.html">CONTENT</a></li>
+                <li><a href="cv.html">ABOUT</a></li>
+            </ul>
         </nav>
     </header>
 
