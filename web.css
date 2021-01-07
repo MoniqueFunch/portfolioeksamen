@@ -6,7 +6,7 @@ img {
 .image-container {
     display: flex;
     gap: 20px;
-    padding: 20px;
+    padding: 18px;
 }
 
 .image-container figure {
@@ -32,7 +32,7 @@ img {
     padding: 20px;
 }
 
-@media only screen and (min-width: 600px) {
+@media (min-width:600px) {
     #first_section .section_wrapper {
         display: grid;
         grid-template-columns: 2.2fr 1.2fr;

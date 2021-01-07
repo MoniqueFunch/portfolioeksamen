@@ -1,11 +1,18 @@
 #first_section {
-    background-image: url(splashbillede.jpg);
+    background-image: url(splashbillede1.jpg);
     background-size: cover;
     width: 90%;
     height: 85vh;
     max-width: none;
     margin-top: 40px;
     background-position: 15% 10%;
+}
+
+h3 {
+    padding-top: 350px;
+    padding-left: 60px;
+    font-size: 2.2rem;
+    color: #be494d;
 }
 
 header {
@@ -15,9 +22,15 @@ header {
     padding-top: 3vh;
 }
 
-
-@media only screen and (min-width: 600px) {
+@media (min-width:600px) {
     #first_section {
         margin-top: 20px;
+    }
+}
+
+@media (max-width:485px) {
+    h1 {
+        font-size: 1.9rem;
+        text-align: right;
     }
 }
