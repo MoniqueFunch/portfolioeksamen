@@ -52,6 +52,26 @@ iframe {
     left: 0;
 }
 
+#first_section .section_wrapper {
+    background-color: rgba(255, 245, 213, 0.58);
+}
+
+#second_section .section_wrapper {
+    background-color: rgba(255, 245, 213, 0.58);
+}
+
+#third_section .section_wrapper {
+    background-color: rgba(255, 245, 213, 0.58);
+}
+
+#fourth_section .section_wrapper {
+    background-color: rgba(255, 245, 213, 0.58);
+}
+
+#fifth_section .section_wrapper {
+    background-color: rgba(255, 245, 213, 0.58);
+}
+
 @media (min-width:750px) {
     #first_section .section_wrapper {
         display: grid;
