@@ -50,6 +50,7 @@ iframe {
     position: absolute;
     top: 0;
     left: 0;
+    border: none;
 }
 
 #first_section .section_wrapper {
@@ -73,10 +74,6 @@ iframe {
 }
 
 a.button {
-    -webkit-appearance: button;
-    -moz-appearance: button;
-    appearance: button;
-
     text-decoration: none;
     color: #faedc7;
     background-color: black;

@@ -1,11 +1,3 @@
-/*Reset*/
-/*
-* {
-    margin: 0;
-    box-sizing: border-box;
-}
-*/
-
 img {
     width: 100%;
 
@@ -54,10 +46,6 @@ img {
 }
 
 a.button {
-    -webkit-appearance: button;
-    -moz-appearance: button;
-    appearance: button;
-
     text-decoration: none;
     color: #F5F3FF;
     background-color: black;

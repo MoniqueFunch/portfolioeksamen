@@ -45,10 +45,6 @@ img {
 }
 
 a.button {
-    -webkit-appearance: button;
-    -moz-appearance: button;
-    appearance: button;
-
     text-decoration: none;
     color: #DFECFE;
     background-color: #4b3ae0;
